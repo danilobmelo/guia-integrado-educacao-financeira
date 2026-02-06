@@ -1,31 +1,65 @@
-# 📊 Caderno de Estudos – Finanças com IA (NotebookLM)
+# 📘 Guia Integrado de Educação Financeira
 
-Este repositório reúne meus estudos de educação financeira, indicadores econômicos e mercado de capitais utilizando IA como ferramenta de aprendizagem ativa.
+Repositório criado para organizar meus estudos de educação financeira, indicadores econômicos e mercado de capitais utilizando IA como ferramenta de aprendizagem ativa (NotebookLM).
 
-A proposta é:
-- organizar fontes em PDF
-- gerar resumos estruturados
-- criar glossário
-- produzir quizzes
-- construir prompts reutilizáveis
+Este projeto une:
+- 📚 Curadoria de fontes oficiais (PDFs)
+- 🤖 Resumos e análises com IA
+- 🧠 Perguntas estratégicas
+- 🎥 Recursos multimídia (áudio/vídeo gerados pelo NotebookLM)
+- 📝 Guias e glossários próprios
 
-## 🎯 Objetivos
-- Consolidar base para CPA-10
-- Dominar Selic, IPCA, PIB e DI
-- Entender risco, retorno e liquidez
-- Aplicar suitability
-- Melhorar tomada de decisão financeira
+---
+
+## 🔗 Notebook Interativo (NotebookLM)
+
+Os resumos dinâmicos, explicações em linguagem simples, perguntas com IA e versões em áudio/vídeo podem ser acessados aqui:
+
+👉 https://notebooklm.google.com/notebook/8da08b00-0794-49ec-8a9b-c7e7c218920e
+
+---
+
+## 🎯 Objetivos de Estudo
+
+- Promover cidadania financeira
+- Consolidar conhecimentos para CPA-10
+- Dominar Selic, IPCA, DI, PIB e IGP-M
+- Aplicar risco, retorno e liquidez
+- Entender suitability
+- Compreender o mercado primário e secundário
+- Apoiar decisões financeiras baseadas em dados
+
+---
 
 ## 🧠 Metodologia
-Uso o NotebookLM para:
-- resumir documentos
-- comparar fontes
-- gerar perguntas estratégicas
-- criar exercícios de fixação
+
+Fluxo de trabalho:
+
+Fontes (PDFs) → NotebookLM → Resumos/Insights → Documentação no GitHub
+
+O NotebookLM é usado para:
+- resumir múltiplas fontes
+- comparar conceitos
+- gerar quizzes
+- criar explicações passo a passo
+- produzir conteúdo multimídia
+
+O GitHub é usado para:
+- versionar materiais
+- documentar aprendizado
+- organizar conhecimento
+- servir como portfólio público
+
+---
 
 ## 📂 Estrutura
-- fontes → materiais utilizados
-- resumos → sínteses por tema
+
+- fontes → materiais originais utilizados
+- resumos → sínteses organizadas por tema
 - glossario.md → conceitos importantes
-- prompts.md → comandos reutilizáveis
-- quizzes.md → perguntas de revisão
+- prompts.md → comandos reutilizáveis de IA
+- quizzes.md → exercícios de fixação
+
+---
+
+Autor: Danilo Melo
