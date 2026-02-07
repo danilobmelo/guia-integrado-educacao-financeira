@@ -1,64 +1,74 @@
-# 🤖 Prompts de Estudo com IA (NotebookLM)
+# 🤖 Prompts reutilizáveis para estudo com NotebookLM
 
-Use os comandos abaixo no NotebookLM para gerar explicações, resumos, exercícios e revisões automaticamente.
+Copie e cole os prompts abaixo no NotebookLM.  
+Se necessário, **substitua os termos entre colchetes pelo tema que deseja estudar**.
 
-Substitua os termos entre colchetes.
-
----
-
-## 🟢 Nível Básico – Educação Financeira
-
-**Definição simples**
-Explique o conceito de [CONCEITO] de forma didática e dê um exemplo prático do dia a dia.
-
-**Diferença entre termos**
-Qual a diferença entre [TERMO A] e [TERMO B] e como isso impacta minhas decisões financeiras?
-
-**Organização de orçamento**
-Monte um passo a passo para criar um orçamento com foco em [OBJETIVO].
+Exemplo:  
+[Líquidez] → [Risco de Crédito]  
+[IPCA] → [IGP-M]
 
 ---
 
-## 🟡 Nível Intermediário – Investimentos
+## 🟢 Nível Básico — Educação financeira e comportamento
 
-**Risco x Retorno**
-Explique a relação risco-retorno do produto [PRODUTO] e quando ele é indicado.
+### Compreensão de conceito
+Explique o conceito de [TERMO, ex: Inflação] com base nas fontes e apresente um exemplo prático do dia a dia.
 
-**Perfil de investidor**
-Quais ativos são mais adequados para o perfil [CONSERVADOR/MODERADO/ARROJADO]?
+### Transformar desejo em meta
+Explique a diferença entre [CONCEITO A, ex: Sonho] e [CONCEITO B, ex: Projeto financeiro] e descreva as etapas para transformar um desejo em uma meta concreta.
 
-**Diversificação**
-Dê um exemplo prático de carteira diversificada para reduzir riscos.
+### Diferenciação de consumo
+Diferencie [CATEGORIA A, ex: Necessidade] e [CATEGORIA B, ex: Desejo] e explique como essa distinção ajuda a evitar endividamento.
 
----
-
-## 🔴 Nível Avançado – Mercado e Indicadores
-
-**Selic**
-Como alterações na Selic impactam investimentos de renda fixa?
-
-**Inflação**
-Compare IPCA e IGP-M: cálculo, uso e diferenças práticas.
-
-**Marcação a mercado**
-Explique como o aumento dos juros afeta o preço de títulos públicos.
+### Organização financeira
+Monte um passo a passo para criar um orçamento focado em [OBJETIVO, ex: reserva de emergência ou viagem].
 
 ---
 
-## 🧮 Cálculos
+## 🟡 Nível Intermediário — Fundamentos de investimentos
 
-**Juros simples vs compostos**
-Demonstre a diferença usando um investimento de R$ 10.000 a 1% ao mês.
+### Juros e tempo
+Compare [CONCEITO A, ex: Juros Simples] e [CONCEITO B, ex: Juros Compostos] e demonstre como o tempo impacta o valor final de um investimento ou dívida.
 
-**Rentabilidade real**
-Calcule o ganho real para rendimento nominal de [X]% e inflação de [Y]%.
+### Dimensões do investimento
+Explique como [DIMENSÃO, ex: Liquidez] influencia a escolha de um ativo financeiro e quando ela é mais importante.
+
+### Perfil do investidor (Suitability)
+Considerando o perfil [PERFIL, ex: Conservador / Moderado / Arrojado], indique quais ativos são mais adequados e por quê.
+
+### Relação risco x retorno
+Analise o produto [ATIVO, ex: CDB ou Ações] e explique a relação entre risco, retorno e previsibilidade.
+
+---
+
+## 🔴 Nível Avançado — Mercado e precificação
+
+### Marcação a mercado
+Explique a mecânica da [DINÂMICA, ex: Marcação a Mercado] na renda fixa e como oscilações na taxa de juros afetam o preço de um título antes do vencimento.
+
+### Impacto da Selic
+Como mudanças na [TAXA, ex: Selic] influenciam títulos [TIPO, ex: prefixados ou pós-fixados]?
+
+### Indicadores econômicos
+Compare [ÍNDICE A, ex: IPCA] e [ÍNDICE B, ex: IGP-M], explicando cálculo, diferenças e aplicações práticas.
+
+---
+
+## 🧮 Cálculos e simulações
+
+### Juros compostos
+Simule um investimento de [VALOR, ex: R$ 10.000] a [TAXA, ex: 1% ao mês] por [PERÍODO, ex: 12 meses] e mostre o montante final.
+
+### Rentabilidade real
+Calcule a rentabilidade real considerando rendimento nominal de [X%] e inflação de [Y%].
 
 ---
 
 ## 🛡️ Planejamento e proteção
 
-**Aposentadoria**
-Compare previdência privada (PGBL/VGBL) com investimentos independentes.
+### Previdência
+Compare [PLANO A, ex: PGBL] e [PLANO B, ex: VGBL], destacando vantagens, desvantagens e situações indicadas.
 
-**Gestão de riscos**
-Quando é melhor poupar, diversificar ou contratar seguro?
+### Gestão de riscos
+Explique quando é melhor [ESTRATÉGIA, ex: diversificar, poupar ou contratar seguro] para proteger o patrimônio.
+
