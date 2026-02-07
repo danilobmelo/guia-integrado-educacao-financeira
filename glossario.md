@@ -1,89 +1,111 @@
 # 📚 Glossário de Economia e Finanças
 
-Guia rápido com os principais termos utilizados em educação financeira, CPA-10 e mercado de capitais.
+Este glossário reúne os principais termos utilizados em educação financeira, investimentos e mercado de capitais, com definições simples e objetivas para consulta rápida.
 
 ---
 
-## 🏦 Instituições e Órgãos
+## A – B
 
-| Termo | Definição |
-|--------|-----------|
-| BACEN | Banco Central do Brasil, regula e supervisiona o Sistema Financeiro Nacional |
-| CVM | Fiscaliza o mercado de valores mobiliários |
-| ANBIMA | Autorregulação e certificações do mercado financeiro |
-| B3 | Bolsa de valores brasileira (Brasil, Bolsa, Balcão) |
-| COPOM | Define a meta da taxa Selic |
+**Ações** – Frações do capital de uma empresa que dão ao investidor participação nos lucros e, em alguns casos, direito a voto.
 
----
+**ANBIMA** – Associação que representa e autorregula instituições do mercado financeiro no Brasil.
 
-## 📊 Indicadores Econômicos
+**BACEN (Banco Central)** – Órgão responsável por controlar a inflação, regular bancos e executar a política monetária.
 
-| Termo | Definição |
-|--------|-----------|
-| Selic | Taxa básica de juros da economia |
-| IPCA | Índice oficial de inflação |
-| IGP-M | Índice de inflação usado em aluguéis |
-| PIB | Soma de todos os bens e serviços produzidos no país |
-| CDI/DI | Taxa de empréstimos entre bancos, referência para renda fixa |
-| TR | Taxa usada na poupança e FGTS |
+**Benchmark** – Índice usado como referência para comparar o desempenho de um investimento (ex: CDI, Ibovespa).
+
+**B3** – Bolsa de valores brasileira onde ações, títulos e derivativos são negociados.
 
 ---
 
-## 💰 Investimentos
+## C – D
 
-| Termo | Definição |
-|--------|-----------|
-| Ações | Frações do capital de empresas |
-| CDB | Título de renda fixa emitido por bancos |
-| LCI/LCA | Letras de crédito isentas de IR para PF |
-| Debêntures | Títulos de dívida emitidos por empresas |
-| Fundos de Investimento | Aplicação coletiva gerida por profissional |
-| Poupança | Investimento simples, baixo risco e isento de IR |
-| IPO | Oferta pública inicial de ações |
+**CDB** – Título de renda fixa emitido por bancos para captar dinheiro dos investidores.
 
----
+**CET (Custo Efetivo Total)** – Percentual que mostra o custo real de um empréstimo, incluindo taxas, juros e impostos.
 
-## 📈 Conceitos Financeiros
+**Capitalização Composta** – Juros sobre juros. Os rendimentos se acumulam exponencialmente ao longo do tempo.
 
-| Termo | Definição |
-|--------|-----------|
-| Juros | Remuneração pelo uso do dinheiro no tempo |
-| Juros Compostos | Juros sobre juros (crescimento exponencial) |
-| Juros Simples | Juros apenas sobre o capital inicial |
-| Rentabilidade | Retorno do investimento |
-| Benchmark | Índice de comparação de desempenho |
-| Marcação a Mercado | Atualização diária do valor do ativo |
-| Diversificação | Distribuir capital para reduzir risco |
-| Hedge | Proteção contra oscilações de preço |
+**Capitalização Simples** – Juros calculados apenas sobre o valor inicial.
+
+**COPOM** – Comitê do Banco Central que define a taxa Selic.
+
+**CVM** – Órgão que fiscaliza o mercado de ações e valores mobiliários.
+
+**Diversificação** – Estratégia de distribuir investimentos para reduzir riscos.
+
+**Dividendos** – Parte do lucro distribuída aos acionistas.
 
 ---
 
-## ⚖️ Risco e Perfil
+## F – I
 
-| Termo | Definição |
-|--------|-----------|
-| Risco | Possibilidade de perda ou retorno diferente do esperado |
-| Risco de Crédito | Emissor não pagar |
-| Risco de Mercado | Oscilações de preço |
-| Risco de Liquidez | Dificuldade de vender o ativo |
-| Risco Sistêmico | Afeta todo o mercado |
-| Volatilidade | Grau de oscilação dos preços |
-| Liquidez | Facilidade de converter em dinheiro |
-| Perfil do Investidor | Conservador, Moderado ou Arrojado |
-| Suitability | Adequação do investimento ao perfil do cliente |
+**FGC** – Fundo que protege investidores em até R$ 250 mil por instituição financeira.
 
----
+**Fundos de Investimento** – Aplicação coletiva onde vários investidores compartilham uma mesma carteira.
 
-## 🛡️ Proteção e Custos
+**Hedge** – Estratégia de proteção contra perdas de mercado.
 
-| Termo | Definição |
-|--------|-----------|
-| FGC | Garante até R$ 250 mil por CPF/instituição |
-| CET | Custo total real de empréstimos |
-| Taxa de Administração | Custo de gestão de fundos |
-| Taxa Nominal | Juros sem descontar inflação |
-| Taxa Real | Juros descontando inflação |
+**Inflação** – Aumento geral dos preços que reduz o poder de compra.
+
+**IPCA** – Índice oficial de inflação do Brasil.
+
+**IGP-M** – Índice de inflação muito usado em contratos de aluguel.
+
+**IPO** – Primeira oferta pública de ações de uma empresa.
 
 ---
 
-> Conteúdo sintetizado com apoio do NotebookLM a partir das fontes do repositório.
+## J – L
+
+**Juros** – Custo ou remuneração pelo uso do dinheiro ao longo do tempo.
+
+**Liquidez** – Facilidade de transformar um ativo em dinheiro.
+
+**LCI/LCA** – Títulos de renda fixa isentos de IR para pessoa física, lastreados nos setores imobiliário e do agronegócio.
+
+---
+
+## M – P
+
+**Marcação a Mercado** – Atualização diária do preço de um título conforme as condições do mercado.
+
+**Mercado Primário** – Onde empresas captam recursos emitindo novos títulos.
+
+**Mercado Secundário** – Onde investidores negociam títulos já existentes entre si.
+
+**Perfil do Investidor** – Classificação baseada na tolerância ao risco (Conservador, Moderado, Arrojado).
+
+**PIB** – Soma de todos os bens e serviços produzidos no país.
+
+**PGBL/VGBL** – Planos de previdência complementar com regras tributárias diferentes.
+
+---
+
+## R – S
+
+**Rentabilidade** – Retorno obtido em um investimento.
+
+**Risco** – Possibilidade de perda ou retorno diferente do esperado.
+
+Tipos:
+- Crédito
+- Mercado
+- Liquidez
+- Sistêmico
+
+**Selic** – Taxa básica de juros da economia brasileira.
+
+**Suitability** – Processo de adequar investimentos ao perfil do investidor.
+
+---
+
+## T – V
+
+**Taxa de Administração** – Custo cobrado pela gestão de um fundo.
+
+**Taxa de Juros Real** – Juros descontados da inflação.
+
+**TR** – Taxa usada na poupança e no FGTS.
+
+**Volatilidade** – Grau de oscilação dos preços de um ativo.
