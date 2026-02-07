@@ -2,10 +2,10 @@
 
 | Termo | Definição |
 |--------|-----------|
-| Selic | Taxa básica de juros |
-| IPCA | Índice de inflação oficial |
-| CDI | Taxa de empréstimos entre bancos |
+| Selic | Taxa básica de juros da economia |
+| IPCA | Índice oficial de inflação |
+| CDI | Taxa de referência entre bancos |
+| Liquidez | Facilidade de resgate |
 | Risco | Possibilidade de perda |
-| Liquidez | Facilidade de resgatar o dinheiro |
-| Retorno | Ganho do investimento |
+| Retorno | Ganho esperado |
 | Suitability | Adequação do investimento ao perfil |
