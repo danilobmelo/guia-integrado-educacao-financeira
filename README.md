@@ -1,65 +1,32 @@
 # 📘 Guia Integrado de Educação Financeira
 
-Repositório criado para organizar meus estudos de educação financeira, indicadores econômicos e mercado de capitais utilizando IA como ferramenta de aprendizagem ativa (NotebookLM).
+Um repositório aberto criado para **organizar, simplificar e democratizar o aprendizado de educação financeira, economia básica e mercado de capitais**, utilizando Inteligência Artificial como ferramenta de aprendizagem ativa.
 
-Este projeto une:
-- 📚 Curadoria de fontes oficiais (PDFs)
-- 🤖 Resumos e análises com IA
-- 🧠 Perguntas estratégicas
-- 🎥 Recursos multimídia (áudio/vídeo gerados pelo NotebookLM)
-- 📝 Guias e glossários próprios
+A proposta é reunir fontes confiáveis, resumos estruturados, glossário de conceitos e prompts reutilizáveis para que **qualquer pessoa possa estudar, revisar e consultar rapidamente** os principais temas financeiros.
 
 ---
 
 ## 🔗 Notebook Interativo (NotebookLM)
 
-Os resumos dinâmicos, explicações em linguagem simples, perguntas com IA e versões em áudio/vídeo podem ser acessados aqui:
+Os conteúdos dinâmicos — resumos automáticos, explicações com referências, quizzes, perguntas estratégicas e versões em áudio/vídeo — estão disponíveis no notebook interativo:
 
-👉 https://notebooklm.google.com/notebook/8da08b00-0794-49ec-8a9b-c7e7c218920e
+👉 **[Acessar o NotebookLM](https://notebooklm.google.com/notebook/8da08b00-0794-49ec-8a9b-c7e7c218920e)**
+
+### Como funciona a integração?
+- O **NotebookLM** → gera análises, resumos e quizzes com IA
+- O **GitHub** → organiza, documenta e versiona o material
 
 ---
 
-## 🎯 Objetivos de Estudo
+## 🎯 Objetivos do Guia
 
 - Promover cidadania financeira
-- Consolidar conhecimentos para CPA-10
-- Dominar Selic, IPCA, DI, PIB e IGP-M
-- Aplicar risco, retorno e liquidez
-- Entender suitability
-- Compreender o mercado primário e secundário
-- Apoiar decisões financeiras baseadas em dados
+- Desenvolver autonomia nas decisões de consumo, poupança e investimento
+- Consolidar fundamentos cobrados em certificações como CPA-10
+- Compreender indicadores econômicos (Selic, IPCA, DI, PIB, IGP-M)
+- Aplicar risco, retorno, liquidez e diversificação na prática
+- Entender suitability e perfil de investidor
+- Servir como material de consulta rápida para estudantes e iniciantes no mercado financeiro
 
----
 
-## 🧠 Metodologia
 
-Fluxo de trabalho:
-
-Fontes (PDFs) → NotebookLM → Resumos/Insights → Documentação no GitHub
-
-O NotebookLM é usado para:
-- resumir múltiplas fontes
-- comparar conceitos
-- gerar quizzes
-- criar explicações passo a passo
-- produzir conteúdo multimídia
-
-O GitHub é usado para:
-- versionar materiais
-- documentar aprendizado
-- organizar conhecimento
-- servir como portfólio público
-
----
-
-## 📂 Estrutura
-
-- fontes → materiais originais utilizados
-- resumos → sínteses organizadas por tema
-- glossario.md → conceitos importantes
-- prompts.md → comandos reutilizáveis de IA
-- quizzes.md → exercícios de fixação
-
----
-
-Autor: Danilo Melo
