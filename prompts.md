@@ -1,91 +1,64 @@
-# 🤖 Prompts de Estudo com IA – Educação Financeira
+# 🤖 Prompts de Estudo com IA (NotebookLM)
 
-Este conjunto de prompts foi criado para transformar o NotebookLM em uma ferramenta de aprendizagem ativa.  
-Copie, cole e substitua os termos entre colchetes conforme sua necessidade.
+Use os comandos abaixo no NotebookLM para gerar explicações, resumos, exercícios e revisões automaticamente.
 
----
-
-# 🟢 Nível Básico – Fundamentos de Educação Financeira
-
-### 📌 Definição simples + exemplo
-Explique o conceito de **[CONCEITO]** de forma simples e use um exemplo prático do dia a dia presente nas fontes.
-
-### 📌 Diferenciação de termos
-Qual a diferença entre **[TERMO A]** e **[TERMO B]**?  
-Explique como essa distinção impacta meu orçamento pessoal.
-
-### 📌 Organização financeira
-Com base no método de quatro etapas (planejamento, registro, agrupamento e avaliação), me ajude a montar um orçamento para **[OBJETIVO]**.
+Substitua os termos entre colchetes.
 
 ---
 
-# 🟡 Nível Intermediário – Investimentos e Perfil de Risco
+## 🟢 Nível Básico – Educação Financeira
 
-### 📌 Relação risco x retorno
-Analise a relação entre risco e retorno para **[PRODUTO]**.  
-Explique por que rentabilidade passada não garante rentabilidade futura.
+**Definição simples**
+Explique o conceito de [CONCEITO] de forma didática e dê um exemplo prático do dia a dia.
 
-### 📌 Suitability (perfil do investidor)
-Considerando o perfil **[CONSERVADOR / MODERADO / ARROJADO]**, quais são as prioridades desse investidor e quais ativos são mais adequados?
+**Diferença entre termos**
+Qual a diferença entre [TERMO A] e [TERMO B] e como isso impacta minhas decisões financeiras?
 
-### 📌 Diversificação
-Explique a importância da diversificação para reduzir risco específico e dê exemplos práticos de carteira diversificada.
-
----
-
-# 🔴 Nível Avançado – Mercado Financeiro e Macroeconomia
-
-### 📌 Taxa Selic
-Como a Selic é definida pelo COPOM e como sua variação afeta títulos de renda fixa **[PRÉ ou PÓS-FIXADA]**?
-
-### 📌 Índices de inflação
-Compare IPCA e IGP-M: quem calcula, composição e principais usos.
-
-### 📌 Marcação a Mercado
-Explique o conceito de Marcação a Mercado e como a alta dos juros impacta o preço de títulos públicos.
+**Organização de orçamento**
+Monte um passo a passo para criar um orçamento com foco em [OBJETIVO].
 
 ---
 
-# 🧮 Cálculos e Conceitos Matemáticos
+## 🟡 Nível Intermediário – Investimentos
 
-### 📌 Juros simples vs compostos
-Demonstre a diferença matemática usando:
-Valor inicial: R$ 10.000  
-Taxa: 1% ao mês  
-Prazo: 6 meses
+**Risco x Retorno**
+Explique a relação risco-retorno do produto [PRODUTO] e quando ele é indicado.
 
-### 📌 Rentabilidade real
-Calcule a rentabilidade real para:
-Rentabilidade nominal = [X]%  
-Inflação = [Y]%
+**Perfil de investidor**
+Quais ativos são mais adequados para o perfil [CONSERVADOR/MODERADO/ARROJADO]?
 
-### 📌 Mercado de capitais
-Explique a diferença entre Mercado Primário e Secundário e a importância de cada um.
+**Diversificação**
+Dê um exemplo prático de carteira diversificada para reduzir riscos.
 
 ---
 
-# 🛡️ Planejamento de Longo Prazo
+## 🔴 Nível Avançado – Mercado e Indicadores
 
-### 📌 Previdência
-Compare vantagens e desvantagens de aposentadoria independente vs PGBL/VGBL.
+**Selic**
+Como alterações na Selic impactam investimentos de renda fixa?
 
-### 📌 Gestão de riscos
-Explique quando é melhor:
-• não fazer nada  
-• poupar  
-• contratar seguro
+**Inflação**
+Compare IPCA e IGP-M: cálculo, uso e diferenças práticas.
+
+**Marcação a mercado**
+Explique como o aumento dos juros afeta o preço de títulos públicos.
 
 ---
 
-# 💡 Dica de uso no NotebookLM
+## 🧮 Cálculos
 
-Você pode:
-• colar os prompts no chat  
-• pedir referências das fontes  
-• solicitar resumos  
-• gerar flashcards  
-• criar quizzes  
-• pedir exemplos práticos  
+**Juros simples vs compostos**
+Demonstre a diferença usando um investimento de R$ 10.000 a 1% ao mês.
 
-Exemplo:
-"Responda usando apenas as fontes do notebook e cite as referências utilizadas."
+**Rentabilidade real**
+Calcule o ganho real para rendimento nominal de [X]% e inflação de [Y]%.
+
+---
+
+## 🛡️ Planejamento e proteção
+
+**Aposentadoria**
+Compare previdência privada (PGBL/VGBL) com investimentos independentes.
+
+**Gestão de riscos**
+Quando é melhor poupar, diversificar ou contratar seguro?
