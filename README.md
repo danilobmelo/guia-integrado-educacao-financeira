@@ -31,7 +31,3 @@ A ideia é centralizar **fontes confiáveis + conceitos + prompts**, facilitando
 2. Revise os termos no **glossário**
 3. Use os **prompts** no NotebookLM para gerar explicações e exercícios
 4. Faça quizzes e revisões diretamente no notebook interativo
-
----
-
-## 📂 Estrutura
