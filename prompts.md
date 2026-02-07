@@ -1,13 +1,13 @@
 # Prompts reutilizáveis (NotebookLM)
 
-Explique o conteúdo como se eu fosse iniciante.
+Explique como se eu fosse iniciante.
 
 Resuma em tópicos principais.
 
-Crie 5 perguntas estilo prova CPA-10.
+Compare as fontes e destaque diferenças.
 
-Compare as fontes e aponte divergências.
+Crie exemplos numéricos resolvidos.
 
-Gere exemplos numéricos resolvidos passo a passo.
+Gere 5 questões estilo CPA-10.
 
-Relacione este tema com aplicações em bancos e ciência de dados.
+Relacione este conteúdo com aplicações em bancos e ciência de dados.
